@@ -1,0 +1,46 @@
+waiting for connection
+The next valid order id is:  7
+Error:  -1   2104   Market data farm connection is OK:hfarm
+Error:  -1   2104   Market data farm connection is OK:eufarmnj
+Error:  -1   2104   Market data farm connection is OK:cashfarm
+Error:  -1   2104   Market data farm connection is OK:usfuture
+Error:  -1   2104   Market data farm connection is OK:jfarm
+Error:  -1   2104   Market data farm connection is OK:usfarm.nj
+Error:  -1   2104   Market data farm connection is OK:eufarm
+Error:  -1   2104   Market data farm connection is OK:usfarm
+Error:  -1   2104   Market data farm connection is OK:usopt
+Error:  -1   2106   HMDS data farm connection is OK:euhmds
+Error:  -1   2106   HMDS data farm connection is OK:cashhmds
+Error:  -1   2106   HMDS data farm connection is OK:hkhmds
+Error:  -1   2106   HMDS data farm connection is OK:fundfarm
+Error:  -1   2106   HMDS data farm connection is OK:ushmds
+Error:  -1   2158   Sec-def data farm connection is OK:secdefhk
+connected
+
+
+¥¥            Symbol SecType Exchange Position  MarketPrice  AverageCost  UnrealizedPNL  RealizedPNL AccountName
+0               AI     STK               100    26.323532    39.290000       -1296.65         0.00    U9193662
+1               AI     OPT                 0     0.036972     0.000000           0.00        18.94    U9193662
+2              AMD     STK               100   122.363998   139.010000       -1664.60         0.00    U9193662
+3              AMD     OPT                -1     1.766024   123.965800         -52.64         0.00    U9193662
+4             ARKK     OPT                 0     7.202818     0.000000           0.00         0.00    U9193662
+5            BRK B     STK               140   308.319916   189.172000       16680.71      1207.26    U9193662
+6            BRK B     OPT                -1     0.003913    46.956400          46.57         0.00    U9193662
+7               FB     STK                50   309.530823   328.831300        -965.02         0.00    U9193662
+8              GME     STK                 0   104.246422     0.000000           0.00      -514.65    U9193662
+9             GOOG     STK                13  2658.310303  1218.906923       18712.24         0.00    U9193662
+10            MSFT     STK               200   300.659119   184.842653       23163.29         0.00    U9193662
+11            MSFT     OPT                -1     0.154896   198.965500         183.48         0.00    U9193662
+12            MSFT     OPT                -2     0.004599   149.335900         297.75         0.00    U9193662
+13            MSFT     OPT                -1     4.337160   278.965000        -154.75         0.00    U9193662
+14            NVDA     STK               100   240.066742   299.010000       -5894.33         0.00    U9193662
+15            NVDA     OPT                 0     5.794570     0.000000           0.00         0.00    U9193662
+16            NVDA     OPT                 0     9.582443     0.000000           0.00         0.00    U9193662
+17            NVDA     OPT                 0    22.735569     0.000000           0.00         0.00    U9193662
+18            NVDA     OPT                -1     6.335418   348.964700        -284.58         0.00    U9193662
+19  IBCID532505111     UNK                 0     0.000000     0.000000           0.00         0.00    U9193662
+20  IBCID532507327     UNK                 0     0.000000     0.000000           0.00         0.00    U9193662
+21             QQQ     OPT                 0     6.152446     0.000000           0.00      -774.53    U9193662
+22            TQQQ     STK               100    59.443863    75.758333       -1631.45         0.00    U9193662
+23            TSLA     STK                30   962.823791   980.033333        -516.29         0.00    U9193662
+24             TSM     OPT                 2     3.526666   600.691350        -496.05         0.00    U9193662

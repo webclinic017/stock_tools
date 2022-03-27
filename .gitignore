@@ -1,0 +1,8 @@
+secret.yaml
+data_api/credentials.json
+data_api/token.json
+data_api/service_account.json
+tom_stock_common/.venv
+tmp
+cred
+data/private

@@ -1,0 +1,179 @@
+waiting for connection
+The next valid order id is:  1
+Error:  -1   2104   Market data farm connection is OK:hfarm
+Error:  -1   2104   Market data farm connection is OK:eufarmnj
+Error:  -1   2104   Market data farm connection is OK:cashfarm
+Error:  -1   2104   Market data farm connection is OK:usfuture
+Error:  -1   2104   Market data farm connection is OK:jfarm
+Error:  -1   2104   Market data farm connection is OK:usfarm.nj
+Error:  -1   2104   Market data farm connection is OK:eufarm
+Error:  -1   2104   Market data farm connection is OK:usopt
+Error:  -1   2104   Market data farm connection is OK:usfarm
+Error:  -1   2106   HMDS data farm connection is OK:euhmds
+Error:  -1   2106   HMDS data farm connection is OK:hkhmds
+Error:  -1   2106   HMDS data farm connection is OK:fundfarm
+Error:  -1   2106   HMDS data farm connection is OK:ushmds
+Error:  -1   2158   Sec-def data farm connection is OK:secdefhk
+connected
+
+UpdateAccountValue. Key: AccountCode Value: U9193662 Currency:  AccountName: U9193662
+UpdateAccountValue. Key: AccountOrGroup Value: U9193662 Currency: BASE AccountName: U9193662
+UpdateAccountValue. Key: AccountOrGroup Value: U9193662 Currency: HKD AccountName: U9193662
+UpdateAccountValue. Key: AccountOrGroup Value: U9193662 Currency: USD AccountName: U9193662
+UpdateAccountValue. Key: AccountReady Value: true Currency:  AccountName: U9193662
+UpdateAccountValue. Key: AccountType Value: INDIVIDUAL Currency:  AccountName: U9193662
+UpdateAccountValue. Key: AccruedCash Value: 0.00 Currency: BASE AccountName: U9193662
+UpdateAccountValue. Key: AccruedCash Value: 0.00 Currency: HKD AccountName: U9193662
+UpdateAccountValue. Key: AccruedCash Value: 0.00 Currency: USD AccountName: U9193662
+UpdateAccountValue. Key: AccruedCash-S Value: 0.00 Currency: HKD AccountName: U9193662
+UpdateAccountValue. Key: AccruedDividend Value: 0.00 Currency: HKD AccountName: U9193662
+UpdateAccountValue. Key: AccruedDividend-S Value: 0.00 Currency: HKD AccountName: U9193662
+UpdateAccountValue. Key: AvailableFunds Value: 1552737.62 Currency: HKD AccountName: U9193662
+UpdateAccountValue. Key: AvailableFunds-S Value: 1552737.62 Currency: HKD AccountName: U9193662
+UpdateAccountValue. Key: Billable Value: 0.00 Currency: HKD AccountName: U9193662
+UpdateAccountValue. Key: Billable-S Value: 0.00 Currency: HKD AccountName: U9193662
+UpdateAccountValue. Key: BuyingPower Value: 10351584.10 Currency: HKD AccountName: U9193662
+UpdateAccountValue. Key: CashBalance Value: 61113.9948 Currency: BASE AccountName: U9193662
+UpdateAccountValue. Key: CashBalance Value: -8.54 Currency: HKD AccountName: U9193662
+UpdateAccountValue. Key: CashBalance Value: 7836.80 Currency: USD AccountName: U9193662
+UpdateAccountValue. Key: ColumnPrio-S Value: 3 Currency:  AccountName: U9193662
+UpdateAccountValue. Key: CorporateBondValue Value: 0.00 Currency: BASE AccountName: U9193662
+UpdateAccountValue. Key: CorporateBondValue Value: 0.00 Currency: HKD AccountName: U9193662
+UpdateAccountValue. Key: CorporateBondValue Value: 0.00 Currency: USD AccountName: U9193662
+UpdateAccountValue. Key: Currency Value: BASE Currency: BASE AccountName: U9193662
+UpdateAccountValue. Key: Currency Value: HKD Currency: HKD AccountName: U9193662
+UpdateAccountValue. Key: Currency Value: USD Currency: USD AccountName: U9193662
+UpdateAccountValue. Key: Cushion Value: 0.800479 Currency:  AccountName: U9193662
+UpdateAccountValue. Key: EquityWithLoanValue Value: 1991534.41 Currency: HKD AccountName: U9193662
+UpdateAccountValue. Key: EquityWithLoanValue-S Value: 1991534.41 Currency: HKD AccountName: U9193662
+UpdateAccountValue. Key: ExcessLiquidity Value: 1594181.99 Currency: HKD AccountName: U9193662
+UpdateAccountValue. Key: ExcessLiquidity-S Value: 1594181.99 Currency: HKD AccountName: U9193662
+UpdateAccountValue. Key: ExchangeRate Value: 1.00 Currency: BASE AccountName: U9193662
+UpdateAccountValue. Key: ExchangeRate Value: 1.00 Currency: HKD AccountName: U9193662
+UpdateAccountValue. Key: ExchangeRate Value: 7.7994252 Currency: USD AccountName: U9193662
+UpdateAccountValue. Key: FullAvailableFunds Value: 1552737.62 Currency: HKD AccountName: U9193662
+UpdateAccountValue. Key: FullAvailableFunds-S Value: 1552737.62 Currency: HKD AccountName: U9193662
+UpdateAccountValue. Key: FullExcessLiquidity Value: 1594181.99 Currency: HKD AccountName: U9193662
+UpdateAccountValue. Key: FullExcessLiquidity-S Value: 1594181.99 Currency: HKD AccountName: U9193662
+UpdateAccountValue. Key: FullInitMarginReq Value: 438796.79 Currency: HKD AccountName: U9193662
+UpdateAccountValue. Key: FullInitMarginReq-S Value: 438796.79 Currency: HKD AccountName: U9193662
+UpdateAccountValue. Key: FullMaintMarginReq Value: 397352.42 Currency: HKD AccountName: U9193662
+UpdateAccountValue. Key: FullMaintMarginReq-S Value: 397352.42 Currency: HKD AccountName: U9193662
+UpdateAccountValue. Key: FundValue Value: 0.00 Currency: BASE AccountName: U9193662
+UpdateAccountValue. Key: FundValue Value: 0.00 Currency: HKD AccountName: U9193662
+UpdateAccountValue. Key: FundValue Value: 0.00 Currency: USD AccountName: U9193662
+UpdateAccountValue. Key: FutureOptionValue Value: 0.00 Currency: BASE AccountName: U9193662
+UpdateAccountValue. Key: FutureOptionValue Value: 0.00 Currency: HKD AccountName: U9193662
+UpdateAccountValue. Key: FutureOptionValue Value: 0.00 Currency: USD AccountName: U9193662
+UpdateAccountValue. Key: FuturesPNL Value: 0.00 Currency: BASE AccountName: U9193662
+UpdateAccountValue. Key: FuturesPNL Value: 0.00 Currency: HKD AccountName: U9193662
+UpdateAccountValue. Key: FuturesPNL Value: 0.00 Currency: USD AccountName: U9193662
+UpdateAccountValue. Key: FxCashBalance Value: 0.00 Currency: BASE AccountName: U9193662
+UpdateAccountValue. Key: FxCashBalance Value: 0.00 Currency: HKD AccountName: U9193662
+UpdateAccountValue. Key: FxCashBalance Value: 0.00 Currency: USD AccountName: U9193662
+UpdateAccountValue. Key: GrossPositionValue Value: 1932194.25 Currency: HKD AccountName: U9193662
+UpdateAccountValue. Key: GrossPositionValue-S Value: 1932194.25 Currency: HKD AccountName: U9193662
+UpdateAccountValue. Key: Guarantee Value: 0.00 Currency: HKD AccountName: U9193662
+UpdateAccountValue. Key: Guarantee-S Value: 0.00 Currency: HKD AccountName: U9193662
+UpdateAccountValue. Key: IndianStockHaircut Value: 0.00 Currency: HKD AccountName: U9193662
+UpdateAccountValue. Key: IndianStockHaircut-S Value: 0.00 Currency: HKD AccountName: U9193662
+UpdateAccountValue. Key: InitMarginReq Value: 438796.79 Currency: HKD AccountName: U9193662
+UpdateAccountValue. Key: InitMarginReq-S Value: 438796.79 Currency: HKD AccountName: U9193662
+UpdateAccountValue. Key: IssuerOptionValue Value: 0.00 Currency: BASE AccountName: U9193662
+UpdateAccountValue. Key: IssuerOptionValue Value: 0.00 Currency: HKD AccountName: U9193662
+UpdateAccountValue. Key: IssuerOptionValue Value: 0.00 Currency: USD AccountName: U9193662
+UpdateAccountValue. Key: Leverage-S Value: 0.97 Currency:  AccountName: U9193662
+UpdateAccountValue. Key: LookAheadAvailableFunds Value: 1552737.62 Currency: HKD AccountName: U9193662
+UpdateAccountValue. Key: LookAheadAvailableFunds-S Value: 1552737.62 Currency: HKD AccountName: U9193662
+UpdateAccountValue. Key: LookAheadExcessLiquidity Value: 1594181.99 Currency: HKD AccountName: U9193662
+UpdateAccountValue. Key: LookAheadExcessLiquidity-S Value: 1594181.99 Currency: HKD AccountName: U9193662
+UpdateAccountValue. Key: LookAheadInitMarginReq Value: 438796.79 Currency: HKD AccountName: U9193662
+UpdateAccountValue. Key: LookAheadInitMarginReq-S Value: 438796.79 Currency: HKD AccountName: U9193662
+UpdateAccountValue. Key: LookAheadMaintMarginReq Value: 397352.42 Currency: HKD AccountName: U9193662
+UpdateAccountValue. Key: LookAheadMaintMarginReq-S Value: 397352.42 Currency: HKD AccountName: U9193662
+UpdateAccountValue. Key: LookAheadNextChange Value: 1640293200 Currency:  AccountName: U9193662
+UpdateAccountValue. Key: MaintMarginReq Value: 397352.42 Currency: HKD AccountName: U9193662
+UpdateAccountValue. Key: MaintMarginReq-S Value: 397352.42 Currency: HKD AccountName: U9193662
+UpdateAccountValue. Key: MoneyMarketFundValue Value: 0.00 Currency: BASE AccountName: U9193662
+UpdateAccountValue. Key: MoneyMarketFundValue Value: 0.00 Currency: HKD AccountName: U9193662
+UpdateAccountValue. Key: MoneyMarketFundValue Value: 0.00 Currency: USD AccountName: U9193662
+UpdateAccountValue. Key: MutualFundValue Value: 0.00 Currency: BASE AccountName: U9193662
+UpdateAccountValue. Key: MutualFundValue Value: 0.00 Currency: HKD AccountName: U9193662
+UpdateAccountValue. Key: MutualFundValue Value: 0.00 Currency: USD AccountName: U9193662
+UpdateAccountValue. Key: NLVAndMarginInReview Value: false Currency:  AccountName: U9193662
+UpdateAccountValue. Key: NetDividend Value: 0.00 Currency: BASE AccountName: U9193662
+UpdateAccountValue. Key: NetDividend Value: 0.00 Currency: HKD AccountName: U9193662
+UpdateAccountValue. Key: NetDividend Value: 0.00 Currency: USD AccountName: U9193662
+UpdateAccountValue. Key: NetLiquidation Value: 1991534.41 Currency: HKD AccountName: U9193662
+UpdateAccountValue. Key: NetLiquidation-S Value: 1991534.41 Currency: HKD AccountName: U9193662
+UpdateAccountValue. Key: NetLiquidationByCurrency Value: 1991534.4099 Currency: BASE AccountName: U9193662
+UpdateAccountValue. Key: NetLiquidationByCurrency Value: -8.54 Currency: HKD AccountName: U9193662
+UpdateAccountValue. Key: NetLiquidationByCurrency Value: 255344.8386 Currency: USD AccountName: U9193662
+UpdateAccountValue. Key: NetLiquidationUncertainty Value: 0.00 Currency: HKD AccountName: U9193662
+UpdateAccountValue. Key: OptionMarketValue Value: 2225.90 Currency: BASE AccountName: U9193662
+UpdateAccountValue. Key: OptionMarketValue Value: 0.00 Currency: HKD AccountName: U9193662
+UpdateAccountValue. Key: OptionMarketValue Value: 285.39 Currency: USD AccountName: U9193662
+UpdateAccountValue. Key: PASharesValue Value: 0.00 Currency: HKD AccountName: U9193662
+UpdateAccountValue. Key: PASharesValue-S Value: 0.00 Currency: HKD AccountName: U9193662
+UpdateAccountValue. Key: PhysicalCertificateValue Value: 0.00 Currency: HKD AccountName: U9193662
+UpdateAccountValue. Key: PhysicalCertificateValue-S Value: 0.00 Currency: HKD AccountName: U9193662
+UpdateAccountValue. Key: PostExpirationExcess Value: 0.00 Currency: HKD AccountName: U9193662
+UpdateAccountValue. Key: PostExpirationExcess-S Value: 0.00 Currency: HKD AccountName: U9193662
+UpdateAccountValue. Key: PostExpirationMargin Value: 0.00 Currency: HKD AccountName: U9193662
+UpdateAccountValue. Key: PostExpirationMargin-S Value: 0.00 Currency: HKD AccountName: U9193662
+UpdateAccountValue. Key: RealCurrency Value: BASE Currency: BASE AccountName: U9193662
+UpdateAccountValue. Key: RealCurrency Value: HKD Currency: HKD AccountName: U9193662
+UpdateAccountValue. Key: RealCurrency Value: USD Currency: USD AccountName: U9193662
+UpdateAccountValue. Key: RealizedPnL Value: 0.00 Currency: BASE AccountName: U9193662
+UpdateAccountValue. Key: RealizedPnL Value: 0.00 Currency: HKD AccountName: U9193662
+UpdateAccountValue. Key: RealizedPnL Value: 0.00 Currency: USD AccountName: U9193662
+UpdateAccountValue. Key: SegmentTitle-S Value: Securities Currency:  AccountName: U9193662
+UpdateAccountValue. Key: StockMarketValue Value: 1928194.51 Currency: BASE AccountName: U9193662
+UpdateAccountValue. Key: StockMarketValue Value: 0.00 Currency: HKD AccountName: U9193662
+UpdateAccountValue. Key: StockMarketValue Value: 247222.65 Currency: USD AccountName: U9193662
+UpdateAccountValue. Key: TBillValue Value: 0.00 Currency: BASE AccountName: U9193662
+UpdateAccountValue. Key: TBillValue Value: 0.00 Currency: HKD AccountName: U9193662
+UpdateAccountValue. Key: TBillValue Value: 0.00 Currency: USD AccountName: U9193662
+UpdateAccountValue. Key: TBondValue Value: 0.00 Currency: BASE AccountName: U9193662
+UpdateAccountValue. Key: TBondValue Value: 0.00 Currency: HKD AccountName: U9193662
+UpdateAccountValue. Key: TBondValue Value: 0.00 Currency: USD AccountName: U9193662
+UpdateAccountValue. Key: TotalCashBalance Value: 61113.9948 Currency: BASE AccountName: U9193662
+UpdateAccountValue. Key: TotalCashBalance Value: -8.54 Currency: HKD AccountName: U9193662
+UpdateAccountValue. Key: TotalCashBalance Value: 7836.80 Currency: USD AccountName: U9193662
+UpdateAccountValue. Key: TotalCashValue Value: 61113.99 Currency: HKD AccountName: U9193662
+UpdateAccountValue. Key: TotalCashValue-S Value: 61113.99 Currency: HKD AccountName: U9193662
+UpdateAccountValue. Key: TotalDebitCardPendingCharges Value: 0.00 Currency: HKD AccountName: U9193662
+UpdateAccountValue. Key: TotalDebitCardPendingCharges-S Value: 0.00 Currency: HKD AccountName: U9193662
+UpdateAccountValue. Key: TradingType-S Value: STKNOPT Currency:  AccountName: U9193662
+UpdateAccountValue. Key: UnrealizedPnL Value: 559830.74 Currency: BASE AccountName: U9193662
+UpdateAccountValue. Key: UnrealizedPnL Value: 0.00 Currency: HKD AccountName: U9193662
+UpdateAccountValue. Key: UnrealizedPnL Value: 71778.46 Currency: USD AccountName: U9193662
+UpdateAccountValue. Key: WarrantValue Value: 0.00 Currency: BASE AccountName: U9193662
+UpdateAccountValue. Key: WarrantValue Value: 0.00 Currency: HKD AccountName: U9193662
+UpdateAccountValue. Key: WarrantValue Value: 0.00 Currency: USD AccountName: U9193662
+UpdatePortfolio. Symbol: AAPL SecType: OPT Exchange:  Position: 2 MarketPrice: 1.99554465 MarketValue: 399.11 AverageCost: 181.25135 UnrealizedPNL: 36.61 RealizedPNL: 0.0 AccountName: U9193662
+UpdateAccountTime. Time: 03:02
+UpdatePortfolio. Symbol: AI SecType: STK Exchange:  Position: 100 MarketPrice: 34.394619 MarketValue: 3439.46 AverageCost: 39.29 UnrealizedPNL: -489.54 RealizedPNL: 0.0 AccountName: U9193662
+UpdateAccountTime. Time: 03:02
+UpdatePortfolio. Symbol: AMD SecType: STK Exchange:  Position: 100 MarketPrice: 147.90264895 MarketValue: 14790.26 AverageCost: 139.01 UnrealizedPNL: 889.26 RealizedPNL: 0.0 AccountName: U9193662
+UpdateAccountTime. Time: 03:02
+UpdatePortfolio. Symbol: ARKK SecType: OPT Exchange:  Position: -1 MarketPrice: 0.841201 MarketValue: -84.12 AverageCost: 110.9861 UnrealizedPNL: 26.87 RealizedPNL: 0.0 AccountName: U9193662
+UpdateAccountTime. Time: 03:02
+UpdatePortfolio. Symbol: BRK B SecType: STK Exchange:  Position: 150 MarketPrice: 294.61273195 MarketValue: 44191.91 AverageCost: 189.172 UnrealizedPNL: 15816.11 RealizedPNL: 0.0 AccountName: U9193662
+UpdateAccountTime. Time: 03:02
+UpdatePortfolio. Symbol: FB SecType: STK Exchange:  Position: 50 MarketPrice: 335.79888915 MarketValue: 16789.94 AverageCost: 328.8313 UnrealizedPNL: 348.38 RealizedPNL: 0.0 AccountName: U9193662
+UpdateAccountTime. Time: 03:02
+UpdatePortfolio. Symbol: GME SecType: STK Exchange:  Position: 5 MarketPrice: 152.37760925 MarketValue: 761.89 AverageCost: 202.73 UnrealizedPNL: -251.76 RealizedPNL: 0.0 AccountName: U9193662
+UpdateAccountTime. Time: 03:02
+UpdatePortfolio. Symbol: GOOG SecType: STK Exchange:  Position: 13 MarketPrice: 2956.1665039 MarketValue: 38430.16 AverageCost: 1218.9069231 UnrealizedPNL: 22584.37 RealizedPNL: 0.0 AccountName: U9193662
+UpdateAccountTime. Time: 03:02
+UpdatePortfolio. Symbol: MSFT SecType: STK Exchange:  Position: 200 MarketPrice: 334.80599975 MarketValue: 66961.2 AverageCost: 184.842653 UnrealizedPNL: 29992.67 RealizedPNL: 0.0 AccountName: U9193662
+UpdateAccountTime. Time: 03:02
+UpdatePortfolio. Symbol: NVDA SecType: STK Exchange:  Position: 100 MarketPrice: 297.94363405 MarketValue: 29794.36 AverageCost: 299.01 UnrealizedPNL: -106.64 RealizedPNL: 0.0 AccountName: U9193662
+UpdateAccountTime. Time: 03:02
+UpdatePortfolio. Symbol: NVDA SecType: OPT Exchange:  Position: -1 MarketPrice: 0.29595695 MarketValue: -29.6 AverageCost: 299.2751 UnrealizedPNL: 269.68 RealizedPNL: 0.0 AccountName: U9193662
+UpdateAccountTime. Time: 03:02
+UpdatePortfolio. Symbol: TSLA SecType: STK Exchange:  Position: 30 MarketPrice: 1068.7816162 MarketValue: 32063.45 AverageCost: 980.03333335 UnrealizedPNL: 2662.45 RealizedPNL: 0.0 AccountName: U9193662
+UpdateAccountTime. Time: 03:02
+UpdateAccountTime. Time: 03:02
+AccountDownloadEnd. Account: U9193662

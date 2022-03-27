@@ -1,0 +1,189 @@
+waiting for connection
+The next valid order id is:  7
+Error:  -1   2104   Market data farm connection is OK:hfarm
+Error:  -1   2104   Market data farm connection is OK:eufarmnj
+Error:  -1   2104   Market data farm connection is OK:cashfarm
+Error:  -1   2104   Market data farm connection is OK:usfuture
+Error:  -1   2104   Market data farm connection is OK:jfarm
+Error:  -1   2104   Market data farm connection is OK:usfarm.nj
+Error:  -1   2104   Market data farm connection is OK:eufarm
+Error:  -1   2104   Market data farm connection is OK:usfarm
+Error:  -1   2104   Market data farm connection is OK:usopt
+Error:  -1   2106   HMDS data farm connection is OK:euhmds
+Error:  -1   2106   HMDS data farm connection is OK:cashhmds
+Error:  -1   2106   HMDS data farm connection is OK:hkhmds
+Error:  -1   2106   HMDS data farm connection is OK:fundfarm
+Error:  -1   2106   HMDS data farm connection is OK:ushmds
+Error:  -1   2158   Sec-def data farm connection is OK:secdefhk
+connected
+
+UpdateAccountValue. Key: AccountCode Value: DU3238517 Currency:  AccountName: DU3238517
+UpdateAccountValue. Key: AccountOrGroup Value: DU3238517 Currency: BASE AccountName: DU3238517
+UpdateAccountValue. Key: AccountOrGroup Value: DU3238517 Currency: HKD AccountName: DU3238517
+UpdateAccountValue. Key: AccountOrGroup Value: DU3238517 Currency: USD AccountName: DU3238517
+UpdateAccountValue. Key: AccountReady Value: true Currency:  AccountName: DU3238517
+UpdateAccountValue. Key: AccountType Value: INDIVIDUAL Currency:  AccountName: DU3238517
+UpdateAccountValue. Key: AccruedCash Value: 0.00 Currency: BASE AccountName: DU3238517
+UpdateAccountValue. Key: AccruedCash Value: 0.00 Currency: HKD AccountName: DU3238517
+UpdateAccountValue. Key: AccruedCash Value: 0.00 Currency: USD AccountName: DU3238517
+UpdateAccountValue. Key: AccruedCash-P Value: 0.00 Currency: HKD AccountName: DU3238517
+UpdateAccountValue. Key: AccruedCash-S Value: 0.00 Currency: HKD AccountName: DU3238517
+UpdateAccountValue. Key: AccruedDividend Value: 0.00 Currency: HKD AccountName: DU3238517
+UpdateAccountValue. Key: AccruedDividend-P Value: 0.00 Currency: HKD AccountName: DU3238517
+UpdateAccountValue. Key: AccruedDividend-S Value: 0.00 Currency: HKD AccountName: DU3238517
+UpdateAccountValue. Key: AvailableFunds Value: 7798900.13 Currency: HKD AccountName: DU3238517
+UpdateAccountValue. Key: AvailableFunds-P Value: 0.00 Currency: HKD AccountName: DU3238517
+UpdateAccountValue. Key: AvailableFunds-S Value: 7798900.13 Currency: HKD AccountName: DU3238517
+UpdateAccountValue. Key: Billable Value: 0.00 Currency: HKD AccountName: DU3238517
+UpdateAccountValue. Key: Billable-P Value: 0.00 Currency: HKD AccountName: DU3238517
+UpdateAccountValue. Key: Billable-S Value: 0.00 Currency: HKD AccountName: DU3238517
+UpdateAccountValue. Key: BuyingPower Value: 51992667.52 Currency: HKD AccountName: DU3238517
+UpdateAccountValue. Key: CashBalance Value: 7798900.1274 Currency: BASE AccountName: DU3238517
+UpdateAccountValue. Key: CashBalance Value: 0.00 Currency: HKD AccountName: DU3238517
+UpdateAccountValue. Key: CashBalance Value: 1000000.00 Currency: USD AccountName: DU3238517
+UpdateAccountValue. Key: ColumnPrio-P Value: 12 Currency:  AccountName: DU3238517
+UpdateAccountValue. Key: ColumnPrio-S Value: 3 Currency:  AccountName: DU3238517
+UpdateAccountValue. Key: CorporateBondValue Value: 0.00 Currency: BASE AccountName: DU3238517
+UpdateAccountValue. Key: CorporateBondValue Value: 0.00 Currency: HKD AccountName: DU3238517
+UpdateAccountValue. Key: CorporateBondValue Value: 0.00 Currency: USD AccountName: DU3238517
+UpdateAccountValue. Key: Cryptocurrency Value: 0.00 Currency: BASE AccountName: DU3238517
+UpdateAccountValue. Key: Cryptocurrency Value: 0.00 Currency: HKD AccountName: DU3238517
+UpdateAccountValue. Key: Cryptocurrency Value: 0.00 Currency: USD AccountName: DU3238517
+UpdateAccountValue. Key: Currency Value: BASE Currency: BASE AccountName: DU3238517
+UpdateAccountValue. Key: Currency Value: HKD Currency: HKD AccountName: DU3238517
+UpdateAccountValue. Key: Currency Value: USD Currency: USD AccountName: DU3238517
+UpdateAccountValue. Key: Cushion Value: 1 Currency:  AccountName: DU3238517
+UpdateAccountValue. Key: EquityWithLoanValue Value: 7798900.13 Currency: HKD AccountName: DU3238517
+UpdateAccountValue. Key: EquityWithLoanValue-P Value: 0.00 Currency: HKD AccountName: DU3238517
+UpdateAccountValue. Key: EquityWithLoanValue-S Value: 7798900.13 Currency: HKD AccountName: DU3238517
+UpdateAccountValue. Key: ExcessLiquidity Value: 7798900.13 Currency: HKD AccountName: DU3238517
+UpdateAccountValue. Key: ExcessLiquidity-P Value: 0.00 Currency: HKD AccountName: DU3238517
+UpdateAccountValue. Key: ExcessLiquidity-S Value: 7798900.13 Currency: HKD AccountName: DU3238517
+UpdateAccountValue. Key: ExchangeRate Value: 1.00 Currency: BASE AccountName: DU3238517
+UpdateAccountValue. Key: ExchangeRate Value: 1.00 Currency: HKD AccountName: DU3238517
+UpdateAccountValue. Key: ExchangeRate Value: 7.7999249 Currency: USD AccountName: DU3238517
+UpdateAccountValue. Key: FullAvailableFunds Value: 7798900.13 Currency: HKD AccountName: DU3238517
+UpdateAccountValue. Key: FullAvailableFunds-P Value: 0.00 Currency: HKD AccountName: DU3238517
+UpdateAccountValue. Key: FullAvailableFunds-S Value: 7798900.13 Currency: HKD AccountName: DU3238517
+UpdateAccountValue. Key: FullExcessLiquidity Value: 7798900.13 Currency: HKD AccountName: DU3238517
+UpdateAccountValue. Key: FullExcessLiquidity-P Value: 0.00 Currency: HKD AccountName: DU3238517
+UpdateAccountValue. Key: FullExcessLiquidity-S Value: 7798900.13 Currency: HKD AccountName: DU3238517
+UpdateAccountValue. Key: FullInitMarginReq Value: 0.00 Currency: HKD AccountName: DU3238517
+UpdateAccountValue. Key: FullInitMarginReq-P Value: 0.00 Currency: HKD AccountName: DU3238517
+UpdateAccountValue. Key: FullInitMarginReq-S Value: 0.00 Currency: HKD AccountName: DU3238517
+UpdateAccountValue. Key: FullMaintMarginReq Value: 0.00 Currency: HKD AccountName: DU3238517
+UpdateAccountValue. Key: FullMaintMarginReq-P Value: 0.00 Currency: HKD AccountName: DU3238517
+UpdateAccountValue. Key: FullMaintMarginReq-S Value: 0.00 Currency: HKD AccountName: DU3238517
+UpdateAccountValue. Key: FundValue Value: 0.00 Currency: BASE AccountName: DU3238517
+UpdateAccountValue. Key: FundValue Value: 0.00 Currency: HKD AccountName: DU3238517
+UpdateAccountValue. Key: FundValue Value: 0.00 Currency: USD AccountName: DU3238517
+UpdateAccountValue. Key: FutureOptionValue Value: 0.00 Currency: BASE AccountName: DU3238517
+UpdateAccountValue. Key: FutureOptionValue Value: 0.00 Currency: HKD AccountName: DU3238517
+UpdateAccountValue. Key: FutureOptionValue Value: 0.00 Currency: USD AccountName: DU3238517
+UpdateAccountValue. Key: FuturesPNL Value: 0.00 Currency: BASE AccountName: DU3238517
+UpdateAccountValue. Key: FuturesPNL Value: 0.00 Currency: HKD AccountName: DU3238517
+UpdateAccountValue. Key: FuturesPNL Value: 0.00 Currency: USD AccountName: DU3238517
+UpdateAccountValue. Key: FxCashBalance Value: 0.00 Currency: BASE AccountName: DU3238517
+UpdateAccountValue. Key: FxCashBalance Value: 0.00 Currency: HKD AccountName: DU3238517
+UpdateAccountValue. Key: FxCashBalance Value: 0.00 Currency: USD AccountName: DU3238517
+UpdateAccountValue. Key: GrossPositionValue Value: 0.00 Currency: HKD AccountName: DU3238517
+UpdateAccountValue. Key: GrossPositionValue-S Value: 0.00 Currency: HKD AccountName: DU3238517
+UpdateAccountValue. Key: Guarantee Value: 0.00 Currency: HKD AccountName: DU3238517
+UpdateAccountValue. Key: Guarantee-P Value: 0.00 Currency: HKD AccountName: DU3238517
+UpdateAccountValue. Key: Guarantee-S Value: 0.00 Currency: HKD AccountName: DU3238517
+UpdateAccountValue. Key: IndianStockHaircut Value: 0.00 Currency: HKD AccountName: DU3238517
+UpdateAccountValue. Key: IndianStockHaircut-P Value: 0.00 Currency: HKD AccountName: DU3238517
+UpdateAccountValue. Key: IndianStockHaircut-S Value: 0.00 Currency: HKD AccountName: DU3238517
+UpdateAccountValue. Key: InitMarginReq Value: 0.00 Currency: HKD AccountName: DU3238517
+UpdateAccountValue. Key: InitMarginReq-P Value: 0.00 Currency: HKD AccountName: DU3238517
+UpdateAccountValue. Key: InitMarginReq-S Value: 0.00 Currency: HKD AccountName: DU3238517
+UpdateAccountValue. Key: IssuerOptionValue Value: 0.00 Currency: BASE AccountName: DU3238517
+UpdateAccountValue. Key: IssuerOptionValue Value: 0.00 Currency: HKD AccountName: DU3238517
+UpdateAccountValue. Key: IssuerOptionValue Value: 0.00 Currency: USD AccountName: DU3238517
+UpdateAccountValue. Key: Leverage-S Value: 0.00 Currency:  AccountName: DU3238517
+UpdateAccountValue. Key: LookAheadAvailableFunds Value: 7798900.13 Currency: HKD AccountName: DU3238517
+UpdateAccountValue. Key: LookAheadAvailableFunds-P Value: 0.00 Currency: HKD AccountName: DU3238517
+UpdateAccountValue. Key: LookAheadAvailableFunds-S Value: 7798900.13 Currency: HKD AccountName: DU3238517
+UpdateAccountValue. Key: LookAheadExcessLiquidity Value: 7798900.13 Currency: HKD AccountName: DU3238517
+UpdateAccountValue. Key: LookAheadExcessLiquidity-P Value: 0.00 Currency: HKD AccountName: DU3238517
+UpdateAccountValue. Key: LookAheadExcessLiquidity-S Value: 7798900.13 Currency: HKD AccountName: DU3238517
+UpdateAccountValue. Key: LookAheadInitMarginReq Value: 0.00 Currency: HKD AccountName: DU3238517
+UpdateAccountValue. Key: LookAheadInitMarginReq-P Value: 0.00 Currency: HKD AccountName: DU3238517
+UpdateAccountValue. Key: LookAheadInitMarginReq-S Value: 0.00 Currency: HKD AccountName: DU3238517
+UpdateAccountValue. Key: LookAheadMaintMarginReq Value: 0.00 Currency: HKD AccountName: DU3238517
+UpdateAccountValue. Key: LookAheadMaintMarginReq-P Value: 0.00 Currency: HKD AccountName: DU3238517
+UpdateAccountValue. Key: LookAheadMaintMarginReq-S Value: 0.00 Currency: HKD AccountName: DU3238517
+UpdateAccountValue. Key: LookAheadNextChange Value: 0 Currency:  AccountName: DU3238517
+UpdateAccountValue. Key: MaintMarginReq Value: 0.00 Currency: HKD AccountName: DU3238517
+UpdateAccountValue. Key: MaintMarginReq-P Value: 0.00 Currency: HKD AccountName: DU3238517
+UpdateAccountValue. Key: MaintMarginReq-S Value: 0.00 Currency: HKD AccountName: DU3238517
+UpdateAccountValue. Key: MoneyMarketFundValue Value: 0.00 Currency: BASE AccountName: DU3238517
+UpdateAccountValue. Key: MoneyMarketFundValue Value: 0.00 Currency: HKD AccountName: DU3238517
+UpdateAccountValue. Key: MoneyMarketFundValue Value: 0.00 Currency: USD AccountName: DU3238517
+UpdateAccountValue. Key: MutualFundValue Value: 0.00 Currency: BASE AccountName: DU3238517
+UpdateAccountValue. Key: MutualFundValue Value: 0.00 Currency: HKD AccountName: DU3238517
+UpdateAccountValue. Key: MutualFundValue Value: 0.00 Currency: USD AccountName: DU3238517
+UpdateAccountValue. Key: NLVAndMarginInReview Value: false Currency:  AccountName: DU3238517
+UpdateAccountValue. Key: NetDividend Value: 0.00 Currency: BASE AccountName: DU3238517
+UpdateAccountValue. Key: NetDividend Value: 0.00 Currency: HKD AccountName: DU3238517
+UpdateAccountValue. Key: NetDividend Value: 0.00 Currency: USD AccountName: DU3238517
+UpdateAccountValue. Key: NetLiquidation Value: 7798900.13 Currency: HKD AccountName: DU3238517
+UpdateAccountValue. Key: NetLiquidation-P Value: 0.00 Currency: HKD AccountName: DU3238517
+UpdateAccountValue. Key: NetLiquidation-S Value: 7798900.13 Currency: HKD AccountName: DU3238517
+UpdateAccountValue. Key: NetLiquidationByCurrency Value: 7798900.1274 Currency: BASE AccountName: DU3238517
+UpdateAccountValue. Key: NetLiquidationByCurrency Value: 0.00 Currency: HKD AccountName: DU3238517
+UpdateAccountValue. Key: NetLiquidationByCurrency Value: 1000000.00 Currency: USD AccountName: DU3238517
+UpdateAccountValue. Key: NetLiquidationUncertainty Value: 0.00 Currency: HKD AccountName: DU3238517
+UpdateAccountValue. Key: OptionMarketValue Value: 0.00 Currency: BASE AccountName: DU3238517
+UpdateAccountValue. Key: OptionMarketValue Value: 0.00 Currency: HKD AccountName: DU3238517
+UpdateAccountValue. Key: OptionMarketValue Value: 0.00 Currency: USD AccountName: DU3238517
+UpdateAccountValue. Key: PASharesValue Value: 0.00 Currency: HKD AccountName: DU3238517
+UpdateAccountValue. Key: PASharesValue-P Value: 0.00 Currency: HKD AccountName: DU3238517
+UpdateAccountValue. Key: PASharesValue-S Value: 0.00 Currency: HKD AccountName: DU3238517
+UpdateAccountValue. Key: PhysicalCertificateValue Value: 0.00 Currency: HKD AccountName: DU3238517
+UpdateAccountValue. Key: PhysicalCertificateValue-P Value: 0.00 Currency: HKD AccountName: DU3238517
+UpdateAccountValue. Key: PhysicalCertificateValue-S Value: 0.00 Currency: HKD AccountName: DU3238517
+UpdateAccountValue. Key: PostExpirationExcess Value: 0.00 Currency: HKD AccountName: DU3238517
+UpdateAccountValue. Key: PostExpirationExcess-P Value: 0.00 Currency: HKD AccountName: DU3238517
+UpdateAccountValue. Key: PostExpirationExcess-S Value: 0.00 Currency: HKD AccountName: DU3238517
+UpdateAccountValue. Key: PostExpirationMargin Value: 0.00 Currency: HKD AccountName: DU3238517
+UpdateAccountValue. Key: PostExpirationMargin-P Value: 0.00 Currency: HKD AccountName: DU3238517
+UpdateAccountValue. Key: PostExpirationMargin-S Value: 0.00 Currency: HKD AccountName: DU3238517
+UpdateAccountValue. Key: RealCurrency Value: BASE Currency: BASE AccountName: DU3238517
+UpdateAccountValue. Key: RealCurrency Value: HKD Currency: HKD AccountName: DU3238517
+UpdateAccountValue. Key: RealCurrency Value: USD Currency: USD AccountName: DU3238517
+UpdateAccountValue. Key: RealizedPnL Value: 0.00 Currency: BASE AccountName: DU3238517
+UpdateAccountValue. Key: RealizedPnL Value: 0.00 Currency: HKD AccountName: DU3238517
+UpdateAccountValue. Key: RealizedPnL Value: 0.00 Currency: USD AccountName: DU3238517
+UpdateAccountValue. Key: SegmentTitle-P Value: Crypto at Paxos Currency:  AccountName: DU3238517
+UpdateAccountValue. Key: SegmentTitle-S Value: Securities Currency:  AccountName: DU3238517
+UpdateAccountValue. Key: StockMarketValue Value: 0.00 Currency: BASE AccountName: DU3238517
+UpdateAccountValue. Key: StockMarketValue Value: 0.00 Currency: HKD AccountName: DU3238517
+UpdateAccountValue. Key: StockMarketValue Value: 0.00 Currency: USD AccountName: DU3238517
+UpdateAccountValue. Key: TBillValue Value: 0.00 Currency: BASE AccountName: DU3238517
+UpdateAccountValue. Key: TBillValue Value: 0.00 Currency: HKD AccountName: DU3238517
+UpdateAccountValue. Key: TBillValue Value: 0.00 Currency: USD AccountName: DU3238517
+UpdateAccountValue. Key: TBondValue Value: 0.00 Currency: BASE AccountName: DU3238517
+UpdateAccountValue. Key: TBondValue Value: 0.00 Currency: HKD AccountName: DU3238517
+UpdateAccountValue. Key: TBondValue Value: 0.00 Currency: USD AccountName: DU3238517
+UpdateAccountValue. Key: TotalCashBalance Value: 7798900.1274 Currency: BASE AccountName: DU3238517
+UpdateAccountValue. Key: TotalCashBalance Value: 0.00 Currency: HKD AccountName: DU3238517
+UpdateAccountValue. Key: TotalCashBalance Value: 1000000.00 Currency: USD AccountName: DU3238517
+UpdateAccountValue. Key: TotalCashValue Value: 7798900.13 Currency: HKD AccountName: DU3238517
+UpdateAccountValue. Key: TotalCashValue-P Value: 0.00 Currency: HKD AccountName: DU3238517
+UpdateAccountValue. Key: TotalCashValue-S Value: 7798900.13 Currency: HKD AccountName: DU3238517
+UpdateAccountValue. Key: TotalDebitCardPendingCharges Value: 0.00 Currency: HKD AccountName: DU3238517
+UpdateAccountValue. Key: TotalDebitCardPendingCharges-P Value: 0.00 Currency: HKD AccountName: DU3238517
+UpdateAccountValue. Key: TotalDebitCardPendingCharges-S Value: 0.00 Currency: HKD AccountName: DU3238517
+UpdateAccountValue. Key: TradingType-S Value: STKNOPT Currency:  AccountName: DU3238517
+UpdateAccountValue. Key: UnrealizedPnL Value: 0.00 Currency: BASE AccountName: DU3238517
+UpdateAccountValue. Key: UnrealizedPnL Value: 0.00 Currency: HKD AccountName: DU3238517
+UpdateAccountValue. Key: UnrealizedPnL Value: 0.00 Currency: USD AccountName: DU3238517
+UpdateAccountValue. Key: WarrantValue Value: 0.00 Currency: BASE AccountName: DU3238517
+UpdateAccountValue. Key: WarrantValue Value: 0.00 Currency: HKD AccountName: DU3238517
+UpdateAccountValue. Key: WarrantValue Value: 0.00 Currency: USD AccountName: DU3238517
+UpdateAccountTime. Time: 02:41
+AccountDownloadEnd. Account: DU3238517
+
+
+=== Here is the full list
